@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: HelloCS",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\cs11dotnet7\\Chapter02\\Vocabulary\\Vocabulary\\Vocabulary.csproj",
+            "launchConfigurationId": "TargetFramework=;HelloCS"
+        }
+    ]
+}
